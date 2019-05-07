@@ -1,5 +1,4 @@
-
-function add5() {
+function add(a,b){
   number += 5;
 }
 
